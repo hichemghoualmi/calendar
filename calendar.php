@@ -24,6 +24,7 @@
 
 <?php
 
+echo 'blablab';
 echo 'first calendar';
 
 $c= 'myvar';
