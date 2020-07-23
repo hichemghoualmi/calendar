@@ -9,6 +9,9 @@
     </head>
     <body>
         <script src="" async defer></script>
+        <p>first blog</p>
+        <p>second blog</p>
+        <p>third blog</p>
         <div class="container">
         <ul>
             <li>home</li>
