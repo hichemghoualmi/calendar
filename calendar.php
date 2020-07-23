@@ -30,6 +30,6 @@ $c= 'myvar';
 
 $d= 'this is another story f1';
 
-$m= 'feature1 variable';
+$m ="master var";
 
 ?>
