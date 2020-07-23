@@ -26,4 +26,6 @@
 
 echo 'first calendar';
 
+$c= 'myvar';
+
 ?>
