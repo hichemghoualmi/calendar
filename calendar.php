@@ -28,6 +28,6 @@ echo 'first calendar';
 
 $c= 'myvar';
 
-$d='this is a story';
+$d= 'this is another story f1';
 
 ?>
