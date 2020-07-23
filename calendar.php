@@ -26,7 +26,6 @@
 
 echo 'first calendar';
 
-$a = array();
-$b = 'day';
+$c= 'myvar';
 
 ?>
